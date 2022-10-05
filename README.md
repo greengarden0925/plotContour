@@ -71,3 +71,6 @@ plotContour(dt=mtcars,x="disp",y="qsec",z="hp",incre=0.3)
 plotContour(dt=mtcars,x="hp",y="qsec",z="disp",incre=0.3)
 
 ```
+
+![image](https://user-images.githubusercontent.com/18394024/193991991-e16f7bfe-f507-4845-8bc0-98944b1caa1c.png)
+
